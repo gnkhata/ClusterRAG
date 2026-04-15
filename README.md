@@ -121,8 +121,6 @@ python zero_shot.py \
 ---
 
 ## Notes
-
-- This repository is intentionally anonymized for double-blind review.
 - All hyperparameters follow the configuration reported in the paper.
 - The `--mode` argument supports `user-only`, `collab`, and `hybrid` settings where applicable.
 
@@ -130,4 +128,4 @@ python zero_shot.py \
 
 ## Citation
 
-If you use this code, please cite the accompanying paper (citation will be added after the review process).
+If you use this code, please cite the accompanying paper (we will add the preprint citation shortly).
