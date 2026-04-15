@@ -1,6 +1,6 @@
-# ClusterRAG (Anonymous Repository)
+# ClusterRAG 
 
-This repository contains the implementation of **ClusterRAG: Cluster-Based Collaborative Filtering for  Personalized Retrieval-Augmented Generation**, a collaborative and hybrid user profiling framework for personalized text generation. The work has been submitted for review. ClusterRAG enhances retrieval-augmented generation by clustering similar users and leveraging both individual and collaborative profiles during generation.
+This repository contains the implementation of **ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation**, a collaborative and hybrid user profiling framework for personalized text generation. The work has been accepted to the ACL 2026 main conference. ClusterRAG enhances retrieval-augmented generation by clustering similar users and leveraging both individual and collaborative profiles during generation.
 
 The code is evaluated on the **LaMP benchmark**, following the experimental setup described in the accompanying paper.
 
@@ -19,7 +19,7 @@ https://lamp-benchmark.github.io/download
 2. Paste the downloaded files into the corresponding subdirectories inside the `data/` folder of this repository.
 3. Ensure the directory structure matches the expected LaMP format before running any scripts.
 
-> **Important:** The code will not run correctly unless the LaMP dataset is downloaded and placed in the correct subdirectories under `data/`. The execution steps below use LaMP_1, which can be replaced by the name of the desired task.
+> **Important:** The code will not run correctly unless the LaMP dataset is downloaded and placed in the correct subdirectories under `data/`. The execution steps below use LaMP_1, which can be replaced by the name of any desired task from the benchmark.
 
 ---
 
