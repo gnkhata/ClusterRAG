@@ -129,7 +129,7 @@ python zero_shot.py \
 ## Citation
 
 If you use this code, please use the following citation:
-
+```bibtex
 @misc{nkhata2026clusterragclusterbasedcollaborativefiltering,
       title={ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation}, 
       author={Gibson Nkhata and Uttamasha Anjally Oyshi and Quan Mai and Susan Gauch},
@@ -139,3 +139,4 @@ If you use this code, please use the following citation:
       primaryClass={cs.IR},
       url={https://arxiv.org/abs/2605.18769}, 
 }
+```
