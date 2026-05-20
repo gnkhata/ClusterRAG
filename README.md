@@ -128,4 +128,14 @@ python zero_shot.py \
 
 ## Citation
 
-If you use this code, please cite the accompanying paper (we will add the preprint citation shortly).
+If you use this code, please use the following citation:
+
+@misc{nkhata2026clusterragclusterbasedcollaborativefiltering,
+      title={ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation}, 
+      author={Gibson Nkhata and Uttamasha Anjally Oyshi and Quan Mai and Susan Gauch},
+      year={2026},
+      eprint={2605.18769},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2605.18769}, 
+}
